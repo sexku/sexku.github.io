@@ -1,7 +1,7 @@
 <html>
 	<head>
         <meta charset="UTF-8" />
-        <title>SEXKU-最新发布地址</title>
+        <title>SexKu-最新发布地址</title>
         <style>
             html,
             body {
@@ -59,17 +59,17 @@
 
     <body>
         <div class="main">
- <h1>SEXKU-最新发布地址</h1>
+ <h1>SexKu-最新发布地址</h1>
             <div class="content">
                 <div class="content-top">
                     <h2>请大家 Ctrl+D 收藏本页</h2>
                     <ul>
                         <li>
-                            色花堂最新地址
+                            SexKu最新地址
                             <a href="https://xpsgo.com" target="_blank">https://xpsgo.com</a>
                         </li>
                         <li>
-                             色花堂备用地址
+                             SexKu备用地址
                             <a href="https://yihsv.com" target="_blank">https://yihsv.com</a>
                             <a href="https://ccbv.cc" target="_blank">https://ccbv.cc</a>
 			
@@ -79,7 +79,6 @@
                     </ul>
                     <p>如果以上地址均无法打开，欢迎发送邮件告知： <br />
                        qinqinwoya@gmail.com<br />
-		       qinqinwoya@gmail.com<br />
                         会自动回复最新地址！</p>
                 </div>
             </div>
