@@ -66,12 +66,13 @@
                     <ul>
                         <li>
                             SexKu最新地址
-                            <a href="https://xpsgo.com" target="_blank">https://xpsgo.com</a>
+                            <a href="http://xpsgo.com" target="_blank">http://xpsgo.com</a>
                         </li>
                         <li>
                              SexKu备用地址
-                            <a href="https://yihsv.com" target="_blank">https://yihsv.com</a>
-                            <a href="https://ccbv.cc" target="_blank">https://ccbv.cc</a>
+                            <a href="http://yihsv.com" target="_blank">http://yihsv.com</a>
+                            <a href="http://ydlxfm.com" target="_blank">http://ydlxfm.com</a>
+			    <a href="http://yeshefb.com" target="_blank">http://yeshefb.com</a>
 			
                         </li>
                        
