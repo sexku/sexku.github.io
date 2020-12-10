@@ -70,7 +70,7 @@
                         </li>
                         <li>
                              SexKu备用地址
-                            <a href="http://yihsv.com" target="_blank">http://yihsv.com</a>
+                            <a href="http://byrss.com" target="_blank">http://byrss.com</a>
                             <a href="http://ydlxfm.com" target="_blank">http://ydlxfm.com</a>
 			    <a href="http://yeshefb.com" target="_blank">http://yeshefb.com</a>
 			
