@@ -66,13 +66,22 @@
                     <ul>
                         <li>
                             SexKu最新地址
-                            <a href="http://xpsgo.com" target="_blank">http://xpsgo.com</a>
+                            <a href="https://caohm.com" target="_blank">https://caohm.com</a>
                         </li>
                         <li>
                              SexKu备用地址
-                            <a href="http://byrss.com" target="_blank">http://byrss.com</a>
-                            <a href="http://ydlxfm.com" target="_blank">http://ydlxfm.com</a>
-			    <a href="http://yeshefb.com" target="_blank">http://yeshefb.com</a>
+                            <a href="https://byrss.com" target="_blank">https://byrss.com</a>
+                            <a href="https://ydlxfm.com" target="_blank">https://ydlxfm.com</a>
+			    <a href="https://xpsgo.com" target="_blank">https://xpsgo.com</a>
+			    <a href="https://sexku.ml" target="_blank">https://sexku.ml</a>
+			    <a href="https://sexku.gq" target="_blank">https://sexku.gq</a>
+			    <a href="https://sexku.ga" target="_blank">https://sexku.ga</a>
+			    <a href="https://sexku.cf" target="_blank">https://sexku.cf</a>
+			    <a href="https://yeshe.ml" target="_blank">https://yeshe.ml</a>
+			    <a href="https://yeshe.gq" target="_blank">https://yeshe.gq</a>
+			    <a href="https://yeshe.ga" target="_blank">https://yeshe.ga</a>
+			    <a href="https://yeshe.cf" target="_blank">https://yeshe.cf</a>
+			    <a href="https://yeshe.tk" target="_blank">https://yeshe.tk</a>
 			
                         </li>
                        
