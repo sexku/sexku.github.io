@@ -66,13 +66,13 @@
                     <ul>
                         <li>
                             SexKu最新地址
-                            <a href="https://caohm.com" target="_blank">https://caohm.com</a>
+                            <a href="https://dlzab.com" target="_blank">https://dlzab.com</a>
                         </li>
                         <li>
                              SexKu备用地址
-                            <a href="https://byrss.com" target="_blank">https://byrss.com</a>
-                            <a href="https://ydlxfm.com" target="_blank">https://ydlxfm.com</a>
-			    <a href="https://xpsgo.com" target="_blank">https://xpsgo.com</a>
+                            <a href="https://qseki.com" target="_blank">https://qseki.com</a>
+                            <a href="https://caohm.com" target="_blank">https://caohm.com</a>
+			    <a href="https://kcibd.com" target="_blank">https://kcibd.com</a>
 			    <a href="https://sexku.ml" target="_blank">https://sexku.ml</a>
 			    <a href="https://sexku.gq" target="_blank">https://sexku.gq</a>
 			    <a href="https://sexku.ga" target="_blank">https://sexku.ga</a>
